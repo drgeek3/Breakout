@@ -1,0 +1,1 @@
+As of 5/2/2025, the game is functional. Next steps include displaying and counting the score. Showing the number of lives remaining, as well as adding some framing aspects that were present in either the arcade or the Atari 2600 versions of the game such as enclosing the top of the play area.
